@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1>this is my favourite pizza</h1>
+    <img src="OIP (2).webp" alt="Image in my webpage" style="width :246px;height:245px ;"
+     <audio controls autoplay>
+        <source
+        src="pizza-192284.mp3" type="audio/mpeg"
+        your browser does not support the audio tag
+    </audio>
+    <video width="300" height="400" controls>
+        <source src="class.mp4" type="mp4" </video>
+    </body>
+</html>
